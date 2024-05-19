@@ -1,0 +1,17 @@
+Team A's Corner 3 distribution is: 24.285714285714285%
+Team A's 2 Pointer distribution is: 69.28571428571428%
+Team A's Non-corner 3 distribution is: 6.428571428571428%
+Team B's Corner 3 distribution is: 27.67857142857143%
+Team B's 2 Pointer distribution is: 66.96428571428571%
+Team B's Non-corner 3 distribution is: 5.357142857142857%
+
+Team A's Effective Field Goal Percentage is: 55.53571428571429%
+Team B's Effective Field Goal Percentage is: 52.30654761904761%
+
+Team A's Effective Field Goal Percentage for 2 pointer is: 49.22680412371135%
+Team A's Effective Field Goal Percentage for non-corner threes is: 62.5%
+Team A's Effective Field Goal Percentage for corner threes is: 102.77777777777777%
+
+Team B's Effective Field Goal Percentage for 2 pointer is: 44.77777777777778%
+Team B's Effective Field Goal Percentage for non-corner threes is: 68.01075268817203%
+Team B's Effective Field Goal Percentage for corner threes is: 68.05555555555556%
